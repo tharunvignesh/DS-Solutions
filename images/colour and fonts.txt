@@ -1,0 +1,5 @@
+background colours used - #FAFAFA , black
+font colours - #F6F8F2 , #C6FC1B , black
+radient 1 - C2FF00 to 1EE50B left ot right
+radient 2 - 12FFF7 to B3FFAB lef to right
+font used - IBM plex mono bold , Heebo regular and light
